@@ -1,0 +1,14 @@
+{
+    "user":[
+        {
+            "Name":"Hirak Debadhikary",
+            "Batch":"Web_19",
+            "course": "Full-Stack-Web-Devlopment",
+            "Age":"22",
+            "Mobile No": "767982764",
+            "Evaluation_Score": "8",
+            "id":1
+        }
+    ]
+
+}
